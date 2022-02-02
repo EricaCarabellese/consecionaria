@@ -1,0 +1,5 @@
+4
+ferrari,40000
+fiat,5000
+audi,90000
+ford,10000

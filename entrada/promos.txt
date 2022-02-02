@@ -1,0 +1,3 @@
+2
+promo1,20,ferrari;fiat
+promo2,30,ferrari;audi
